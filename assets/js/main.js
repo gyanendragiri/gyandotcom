@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-/**
-* Template Name: DevFolio - v2.1.1
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-=======
->>>>>>> remotes/gyandotcom/master
 (function($) {
   "use strict";
 
@@ -137,8 +128,5 @@
     });
   });
 
-<<<<<<< HEAD
 })(jQuery);
-=======
-})(jQuery);
->>>>>>> remotes/gyandotcom/master
+
